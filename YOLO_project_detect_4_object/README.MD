@@ -1,0 +1,1 @@
+proyek ini merupakan fine tuning model yolo untuk mengenali 4 objek baru yakni; marina body laution, kahf deodorant, tanco pomade dan enchen. mungkin model ini masih kurang akurat dikarenakan hanya menggunakan 30 foto saja untuk data trainingnya. 
